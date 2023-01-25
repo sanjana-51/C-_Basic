@@ -10,7 +10,7 @@ int main()
     else if(age==18)
     cout<<"First year of voting";
     else
-    cout<<"YOU can vote";
+    cout<<"YOU are eligible to  vote";
     return 0;
 
 }
